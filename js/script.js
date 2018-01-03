@@ -1,5 +1,4 @@
 var newGameBtn = document.getElementById('js-newGameButton');
-
 newGameBtn.addEventListener('click', newGame);
 
 var pickRock = document.getElementById('js-playerPick_rock'),
