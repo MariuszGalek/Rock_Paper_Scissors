@@ -1,1 +1,1 @@
-Simple landing page
+Rock-Paper-Scissors game
